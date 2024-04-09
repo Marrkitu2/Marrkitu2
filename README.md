@@ -14,7 +14,8 @@ I consider myself a proactive person when it comes to working both individually 
 
 
 [Contact Me](http://www.t.me/marrkitus)	
-
+---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Marrkitu2)](https://git.io/streak-stats)
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
