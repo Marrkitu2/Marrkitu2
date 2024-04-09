@@ -9,7 +9,7 @@ I consider myself a proactive person when it comes to working both individually 
 |----------|----------|----------|
 | HTML | High | 99+
 | CSS | High | 99+
-| JAVA | Medium | 600h
+| JAVA | Medium | 60h
 | JavaScript | Low | 33h
 ---
 
