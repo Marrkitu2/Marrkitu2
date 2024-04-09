@@ -15,20 +15,29 @@ I consider myself a proactive person when it comes to working both individually 
 
 [Contact Me](http://www.t.me/marrkitus)	
 ---
+
+  
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Marrkitu2&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
+
 ---
+
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Marrkitu2&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marrkitu2&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
-</div>
+
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Marrkitu2&style=for-the-badge&color=orange" alt=""/>
+</div>
