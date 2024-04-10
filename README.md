@@ -40,8 +40,8 @@ I consider myself a proactive person when it comes to working both individually 
 # Contact Me
 ## [Whit Telegram](http://www.t.me/marrkitus)	
 ## [Whit Instagram](http://www.instagram.com/mxrrkitus)
-
 --- 
+
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Marrkitu2&style=for-the-badge&color=yellow" alt=""/>
 </div>
