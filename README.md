@@ -38,10 +38,7 @@
 <div align="center"> 
   <h2> 📊My Github Stats:</h2>
 </div>
-<center>
-
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/MainakRepositor/badges)
-
+  
 <table cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td rowspan="2">
