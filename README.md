@@ -1,10 +1,18 @@
-# Marcos Lopez Medina
 
-## About Me
+<div align="center">
+  <h1>Marcos Lopez Medina</h1>
+</div>
 
-I consider myself a proactive person when it comes to working both individually and in groups. I am easy to communicate with my project partners in order to move the project forward. I am an active learner and have a fast learning curve. I can be indispensable in any job thanks to my basic skills such as teamwork and dedication, in addition to my computer skills as you will see marked in my profile.
 
-# Computer skills
+<div align="center">
+ <h3>About Me</h3>
+  <p>I consider myself a proactive person when it comes to working both individually and in groups. I am easy to communicate with my project partners in order to move the project forward. I am an active learner and have a fast learning curve. I can be indispensable in any job thanks to my basic skills such as teamwork and dedication, in addition to my computer skills as you will see marked in my profile.</p>
+</div>
+
+<div align="center"> 
+  <h2>Computer skills</h2>
+</div>
+
 | Language | Level | Dedicated Hours |
 |----------|----------|----------|
 | HTML | High | 99+
@@ -12,13 +20,17 @@ I consider myself a proactive person when it comes to working both individually 
 | JAVA | Medium | 60h
 | JavaScript | Low | 33h
 
-# Languga Skills
+<div align="center"> 
+  <h2>Language skills</h2>
+</div>
+
 | Language | Level |
 |----------|--------|
 | Spanish  | Native |
 | Catalan  | Native |
 | English  | Certificate B1 |
 | Italian  | Learning |
+
 ---
 
 <p align="center">
@@ -37,7 +49,10 @@ I consider myself a proactive person when it comes to working both individually 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-# Contact Me
+<div align="center"> 
+  <h2>Contact Me</h2>
+</div>
+
 ## [Whit Telegram](http://www.t.me/marrkitus)	
 ## [Whit Instagram](http://www.instagram.com/mxrrkitus)
 --- 
