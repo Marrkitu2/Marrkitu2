@@ -7,10 +7,13 @@ I consider myself a proactive person when it comes to working both individually 
 ## 💻 Computer skills
 | Language | Level | Dedicated Hours |
 |----------|----------|----------|
-| HTML | High | 99+
-| CSS | High | 99+
-| JAVA | Medium | 60h
-| JavaScript | Low | 33h
+| HTML | High | +99h |
+| CSS | High | +99h |
+| JAVA | Medium | +60h |
+| MySQL | Medium | +60h |
+| XML | Low | +30h |
+| DTD | Low | +30h |
+| JavaScript | Low | +30h
 
 
 ## 🗣️ Language skills
