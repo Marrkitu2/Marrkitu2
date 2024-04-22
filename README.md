@@ -62,11 +62,11 @@ I consider myself a proactive person when it comes to working both individually 
 ## 📊 My Github Stats
 <table>
   <tr>
-    <td rowspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlopezsapalomera&theme=tokyonight" alt="mlopezsapalomera's Top Languages"></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=mlopezsapalomera&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="mlopezsapalomera's Stats"></td>
+    <td rowspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marrkitu2&theme=tokyonight" alt="Marrkitu2's Top Languages"></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Marrkitu2&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Marrkitu2's Stats"></td>
   </tr>
   <tr>
-    <th colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mlopezsapalomera&theme=vue-dark&hide_border=true" alt="mlopezsapalomera's Streak"></th>
+    <th colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Marrkitu2&theme=vue-dark&hide_border=true" alt="Marrkitu2's Streak"></th>
   </tr>
 </table>
 
