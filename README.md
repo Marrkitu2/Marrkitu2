@@ -11,6 +11,10 @@ I consider myself a proactive person when it comes to working both individually 
 | XML | Low | +30h |
 | DTD | Low | +30h |
 | JavaScript | Low | +30h |
+| TypeScript | Low | +30h |
+| PHP |Low| +30h|
+
+
 
 
 ## 🗣️ Language skills
@@ -20,6 +24,8 @@ I consider myself a proactive person when it comes to working both individually 
 | Catalan  | Native |
 | English  | Certificate B1 |
 | Italian  | Learning |
+| Germany | Learning |
+
 
 ## Programming Languages
 <p algin="left"> 
@@ -81,7 +87,7 @@ I consider myself a proactive person when it comes to working both individually 
 
 ## 📥 Contact Me
 #### [Whit Telegram](http://www.t.me/marrkitus)	
-#### [Whit Instagram](http://www.instagram.com/mxrrkitus)
+#### [Whit Instagram](http://www.instagram.com/_mxxrcoss_)
 
 
 <div id="header" align="center">
