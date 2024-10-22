@@ -10,7 +10,7 @@ I consider myself a proactive person when it comes to working both individually 
 | MySQL | Medium | +60h |
 | XML | Low | +30h |
 | DTD | Low | +30h |
-| JavaScript | Low | +30h
+| JavaScript | Low | +30h |
 
 
 ## 🗣️ Language skills
