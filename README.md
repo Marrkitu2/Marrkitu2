@@ -73,13 +73,6 @@ I consider myself a proactive person when it comes to working both individually 
 
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
 ## 📥 Contact Me
 #### [Whit Telegram](http://www.t.me/marrkitus)	
 #### [Whit Instagram](http://www.instagram.com/_mxxrcoss_)
