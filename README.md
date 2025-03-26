@@ -61,15 +61,17 @@ Ademas me apasiona el mundo de las **redes sociales** y que actualmente me encue
 📍 **Con estos avances, estaré más cerca de alcanzar un nivel Mid-Level!** 🚀
 
 ---
-## 🚀 RRSS
+>[!IMPORTANT]
+>## 🚀 RRSS
+>
+>[Tiktok](https://www.tiktok.com/@marrkitu2)
+>[Instagram](https://www.instagram.com/_mxxrcoss_)
+>[Youtube](https://www.youtube.com/@Marrkitus)
 
-<div align="center">
-  
-[Tiktok](https://www.tiktok.com/@marrkitu2)
-[Instagram](https://www.instagram.com/_mxxrcoss_)
-[Youtube](https://www.youtube.com/@Marrkitus)
 
-</div>
+
+
+
 
 
 <!--
